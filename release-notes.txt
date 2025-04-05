@@ -1,0 +1,4 @@
+Release Notes - April 25
+- Added user authentication
+- Improved logging
+- Fixed critical bugs from March
